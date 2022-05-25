@@ -74,7 +74,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.894737F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.60526F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.368421F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1298, 853);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1362, 942);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // tableLayoutPanel2
@@ -92,7 +92,7 @@
             this.tableLayoutPanel2.RowCount = 1;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle());
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 57F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(1292, 61);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(1356, 68);
             this.tableLayoutPanel2.TabIndex = 1;
             // 
             // tableLayoutPanel4
@@ -105,12 +105,12 @@
             this.tableLayoutPanel4.Controls.Add(this.lbl3, 0, 0);
             this.tableLayoutPanel4.Controls.Add(this.lblMaxEquityDrawdown, 1, 0);
             this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(863, 3);
+            this.tableLayoutPanel4.Location = new System.Drawing.Point(906, 3);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 2;
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(426, 55);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(447, 62);
             this.tableLayoutPanel4.TabIndex = 2;
             // 
             // lbl4
@@ -118,7 +118,7 @@
             this.lbl4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lbl4.AutoSize = true;
             this.lbl4.Font = new System.Drawing.Font("Segoe Script", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl4.Location = new System.Drawing.Point(3, 35);
+            this.lbl4.Location = new System.Drawing.Point(3, 42);
             this.lbl4.Name = "lbl4";
             this.lbl4.Size = new System.Drawing.Size(179, 20);
             this.lbl4.TabIndex = 3;
@@ -129,7 +129,7 @@
             this.lblMaxBalanceDrawdown.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblMaxBalanceDrawdown.AutoSize = true;
             this.lblMaxBalanceDrawdown.Font = new System.Drawing.Font("Segoe Script", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMaxBalanceDrawdown.Location = new System.Drawing.Point(191, 28);
+            this.lblMaxBalanceDrawdown.Location = new System.Drawing.Point(201, 35);
             this.lblMaxBalanceDrawdown.Name = "lblMaxBalanceDrawdown";
             this.lblMaxBalanceDrawdown.Size = new System.Drawing.Size(63, 27);
             this.lblMaxBalanceDrawdown.TabIndex = 2;
@@ -140,7 +140,7 @@
             this.lbl3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lbl3.AutoSize = true;
             this.lbl3.Font = new System.Drawing.Font("Segoe Script", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl3.Location = new System.Drawing.Point(3, 7);
+            this.lbl3.Location = new System.Drawing.Point(3, 11);
             this.lbl3.Name = "lbl3";
             this.lbl3.Size = new System.Drawing.Size(174, 20);
             this.lbl3.TabIndex = 0;
@@ -151,7 +151,7 @@
             this.lblMaxEquityDrawdown.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblMaxEquityDrawdown.AutoSize = true;
             this.lblMaxEquityDrawdown.Font = new System.Drawing.Font("Segoe Script", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMaxEquityDrawdown.Location = new System.Drawing.Point(191, 0);
+            this.lblMaxEquityDrawdown.Location = new System.Drawing.Point(201, 4);
             this.lblMaxEquityDrawdown.Name = "lblMaxEquityDrawdown";
             this.lblMaxEquityDrawdown.Size = new System.Drawing.Size(63, 27);
             this.lblMaxEquityDrawdown.TabIndex = 1;
@@ -162,7 +162,7 @@
             this.lblTitle.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblTitle.AutoSize = true;
             this.lblTitle.Font = new System.Drawing.Font("Segoe Script", 16.2F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitle.Location = new System.Drawing.Point(503, 8);
+            this.lblTitle.Location = new System.Drawing.Point(535, 12);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(283, 44);
             this.lblTitle.TabIndex = 0;
@@ -183,7 +183,7 @@
             this.tableLayoutPanel3.RowCount = 2;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(424, 55);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(445, 62);
             this.tableLayoutPanel3.TabIndex = 1;
             // 
             // lblBalance
@@ -191,7 +191,7 @@
             this.lblBalance.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblBalance.AutoSize = true;
             this.lblBalance.Font = new System.Drawing.Font("Segoe Script", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBalance.Location = new System.Drawing.Point(113, 28);
+            this.lblBalance.Location = new System.Drawing.Point(118, 35);
             this.lblBalance.Name = "lblBalance";
             this.lblBalance.Size = new System.Drawing.Size(83, 27);
             this.lblBalance.TabIndex = 2;
@@ -202,7 +202,7 @@
             this.lbl1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lbl1.AutoSize = true;
             this.lbl1.Font = new System.Drawing.Font("Segoe Script", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl1.Location = new System.Drawing.Point(3, 0);
+            this.lbl1.Location = new System.Drawing.Point(3, 4);
             this.lbl1.Name = "lbl1";
             this.lbl1.Size = new System.Drawing.Size(74, 27);
             this.lbl1.TabIndex = 0;
@@ -213,7 +213,7 @@
             this.lbl2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lbl2.AutoSize = true;
             this.lbl2.Font = new System.Drawing.Font("Segoe Script", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl2.Location = new System.Drawing.Point(3, 28);
+            this.lbl2.Location = new System.Drawing.Point(3, 35);
             this.lbl2.Name = "lbl2";
             this.lbl2.Size = new System.Drawing.Size(83, 27);
             this.lbl2.TabIndex = 0;
@@ -224,7 +224,7 @@
             this.lblEquity.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblEquity.AutoSize = true;
             this.lblEquity.Font = new System.Drawing.Font("Segoe Script", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEquity.Location = new System.Drawing.Point(113, 0);
+            this.lblEquity.Location = new System.Drawing.Point(118, 4);
             this.lblEquity.Name = "lblEquity";
             this.lblEquity.Size = new System.Drawing.Size(83, 27);
             this.lblEquity.TabIndex = 1;
@@ -234,9 +234,9 @@
             // 
             this.pnlChart.BackColor = System.Drawing.Color.Gainsboro;
             this.pnlChart.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnlChart.Location = new System.Drawing.Point(3, 70);
+            this.pnlChart.Location = new System.Drawing.Point(3, 77);
             this.pnlChart.Name = "pnlChart";
-            this.pnlChart.Size = new System.Drawing.Size(1292, 716);
+            this.pnlChart.Size = new System.Drawing.Size(1356, 792);
             this.pnlChart.TabIndex = 2;
             // 
             // tableLayoutPanel5
@@ -247,12 +247,12 @@
             this.tableLayoutPanel5.Controls.Add(this.listBox1, 0, 0);
             this.tableLayoutPanel5.Controls.Add(this.tableLayoutPanel6, 1, 0);
             this.tableLayoutPanel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(3, 792);
+            this.tableLayoutPanel5.Location = new System.Drawing.Point(3, 875);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 1;
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle());
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 106F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(1292, 58);
+            this.tableLayoutPanel5.Size = new System.Drawing.Size(1356, 64);
             this.tableLayoutPanel5.TabIndex = 3;
             // 
             // listBox1
@@ -269,7 +269,7 @@
             "I\'m glad that you are well."});
             this.listBox1.Location = new System.Drawing.Point(3, 3);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(738, 52);
+            this.listBox1.Size = new System.Drawing.Size(775, 58);
             this.listBox1.TabIndex = 1;
             // 
             // tableLayoutPanel6
@@ -282,11 +282,11 @@
             this.tableLayoutPanel6.Controls.Add(this.btnPrevious, 0, 0);
             this.tableLayoutPanel6.Controls.Add(this.tableLayoutPanel7, 1, 0);
             this.tableLayoutPanel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel6.Location = new System.Drawing.Point(747, 3);
+            this.tableLayoutPanel6.Location = new System.Drawing.Point(784, 3);
             this.tableLayoutPanel6.Name = "tableLayoutPanel6";
             this.tableLayoutPanel6.RowCount = 1;
             this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle());
-            this.tableLayoutPanel6.Size = new System.Drawing.Size(542, 52);
+            this.tableLayoutPanel6.Size = new System.Drawing.Size(569, 58);
             this.tableLayoutPanel6.TabIndex = 2;
             // 
             // btnPrevious
@@ -295,7 +295,7 @@
             this.btnPrevious.Font = new System.Drawing.Font("Segoe Print", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPrevious.Location = new System.Drawing.Point(3, 3);
             this.btnPrevious.Name = "btnPrevious";
-            this.btnPrevious.Size = new System.Drawing.Size(174, 46);
+            this.btnPrevious.Size = new System.Drawing.Size(183, 52);
             this.btnPrevious.TabIndex = 0;
             this.btnPrevious.Text = "Previous";
             this.btnPrevious.UseVisualStyleBackColor = true;
@@ -309,13 +309,13 @@
             this.tableLayoutPanel7.Controls.Add(this.btnAddPoint, 0, 0);
             this.tableLayoutPanel7.Controls.Add(this.btnSubtractPoint, 0, 1);
             this.tableLayoutPanel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel7.Location = new System.Drawing.Point(180, 0);
+            this.tableLayoutPanel7.Location = new System.Drawing.Point(189, 0);
             this.tableLayoutPanel7.Margin = new System.Windows.Forms.Padding(0);
             this.tableLayoutPanel7.Name = "tableLayoutPanel7";
             this.tableLayoutPanel7.RowCount = 2;
             this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel7.Size = new System.Drawing.Size(180, 52);
+            this.tableLayoutPanel7.Size = new System.Drawing.Size(189, 58);
             this.tableLayoutPanel7.TabIndex = 1;
             // 
             // btnAddPoint
@@ -325,7 +325,7 @@
             this.btnAddPoint.Location = new System.Drawing.Point(0, 0);
             this.btnAddPoint.Margin = new System.Windows.Forms.Padding(0);
             this.btnAddPoint.Name = "btnAddPoint";
-            this.btnAddPoint.Size = new System.Drawing.Size(180, 26);
+            this.btnAddPoint.Size = new System.Drawing.Size(189, 29);
             this.btnAddPoint.TabIndex = 3;
             this.btnAddPoint.Text = "+ Point";
             this.btnAddPoint.UseVisualStyleBackColor = true;
@@ -335,10 +335,10 @@
             // 
             this.btnSubtractPoint.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnSubtractPoint.Font = new System.Drawing.Font("Segoe Print", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSubtractPoint.Location = new System.Drawing.Point(0, 26);
+            this.btnSubtractPoint.Location = new System.Drawing.Point(0, 29);
             this.btnSubtractPoint.Margin = new System.Windows.Forms.Padding(0);
             this.btnSubtractPoint.Name = "btnSubtractPoint";
-            this.btnSubtractPoint.Size = new System.Drawing.Size(180, 26);
+            this.btnSubtractPoint.Size = new System.Drawing.Size(189, 29);
             this.btnSubtractPoint.TabIndex = 2;
             this.btnSubtractPoint.Text = "- Point";
             this.btnSubtractPoint.UseVisualStyleBackColor = true;
@@ -346,11 +346,11 @@
             // 
             // btnSubmit
             // 
-            this.btnSubmit.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btnSubmit.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btnSubmit.Font = new System.Drawing.Font("Segoe Print", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSubmit.Location = new System.Drawing.Point(369, 5);
+            this.btnSubmit.Location = new System.Drawing.Point(381, 3);
             this.btnSubmit.Name = "btnSubmit";
-            this.btnSubmit.Size = new System.Drawing.Size(163, 42);
+            this.btnSubmit.Size = new System.Drawing.Size(185, 52);
             this.btnSubmit.TabIndex = 2;
             this.btnSubmit.Text = "Submit";
             this.btnSubmit.UseVisualStyleBackColor = true;
@@ -360,7 +360,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1298, 853);
+            this.ClientSize = new System.Drawing.Size(1362, 942);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
