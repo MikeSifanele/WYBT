@@ -1,0 +1,8 @@
+
+*.sln
+
+obj/
+
+Properties/
+
+.vs/
